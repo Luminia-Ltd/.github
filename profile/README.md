@@ -1,6 +1,6 @@
 # Luminia Ltd
 
-A team of passionate developers focused on creating innovative software and interactive experiences.
+A team of professional developers focused on creating innovative software and interactive experiences.
 
 ## Current Project
 
