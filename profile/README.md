@@ -21,6 +21,7 @@ https://chat.whatsapp.com/BJVOUQKcba22MM8g3FL21D
 My first repo for the project. This formats and unformats money suffixes
 
 
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DozenLimeStone&repo=SimpleSQLiteAPI&theme=github_dark)](https://github.com/DozenLimeStone/SimpleSQLiteAPI)
 
 Used for the database.
