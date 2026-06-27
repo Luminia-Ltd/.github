@@ -16,7 +16,7 @@ https://chat.whatsapp.com/BJVOUQKcba22MM8g3FL21D
 
 ## Public repos from us which are used in the project
 
-| [Lib A](https://github.com/your-user/lib-a) | Parser for X. |
+| [SQLite API](https://github.com/DozenLimeStone/SimpleSQLiteAPI) | Used for database. |
 
 ## TODO
 
