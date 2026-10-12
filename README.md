@@ -18,13 +18,11 @@ https://chat.whatsapp.com/BJVOUQKcba22MM8g3FL21D
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DozenLimeStone&repo=Money-Suffixes&theme=github_dark)](https://github.com/DozenLimeStone/Money-Suffixes)
 
-My first repo for the project. This formats and unformats money suffixes
-
-
+Lime's first repo for the project. This formats and unformats money suffixes
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DozenLimeStone&repo=SimpleSQLiteAPI&theme=github_dark)](https://github.com/DozenLimeStone/SimpleSQLiteAPI)
 
-Used for the database.
+Lime's database wrapper
 
 ## TODO
 
